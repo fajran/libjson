@@ -1,0 +1,5 @@
+Debug/src
+Debug/libjson.so
+Release/src
+Release/libjson.so
+test/
