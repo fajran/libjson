@@ -1,5 +1,5 @@
 Debug/src
-Debug/libjson.so
+Debug/libjson.dylib
 Release/src
-Release/libjson.so
+Release/libjson.dylib
 test/

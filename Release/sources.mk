@@ -2,21 +2,21 @@
 # Automatically-generated file. Do not edit!
 ################################################################################
 
-O_SRCS := 
-CPP_SRCS := 
 C_UPPER_SRCS := 
 C_SRCS := 
-S_SRCS := 
-OBJ_SRCS := 
+CPP_SRCS := 
+O_SRCS := 
 ASM_SRCS := 
-CXX_SRCS := 
+S_SRCS := 
 C++_SRCS := 
+CXX_SRCS := 
 CC_SRCS := 
+OBJ_SRCS := 
 OBJS := 
 C++_DEPS := 
-C_DEPS := 
+EXECUTABLES := 
 CC_DEPS := 
-LIBRARIES := 
+C_DEPS := 
 CPP_DEPS := 
 CXX_DEPS := 
 C_UPPER_DEPS := 
